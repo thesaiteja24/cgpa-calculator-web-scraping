@@ -1,0 +1,45 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Dependency directories
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite
+*.db
+
+# Temporary or downloaded files
+*.csv
+*.xlsx
+*.json
+
+# Flask app files (optional, if using Flask)
+instance/
+*.pid
+*.seed
